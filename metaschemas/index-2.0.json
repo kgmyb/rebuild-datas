@@ -41,4 +41,13 @@
     "file": "schema-Quotation.json",
     "refs": ["Account", "Contact"]
   }
+    {
+    "name": "测试单",
+    "desc": "测试单是企业在销售过程当中，向客户提供的产品报价清单，也为销售订单提供了一个基本的价格信息",
+    "key": "Quotation",
+    "file": "schema-Quotation.json",
+    "refs": ["Account", "Contact"]
+  }
+
+  
 ]
